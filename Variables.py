@@ -3,12 +3,8 @@ import git
 from git import Repo
 
 COMMITS_TO_PRINT = 10
-REPOSITORY_PATH = "/Users/thais/Documents/GitHub/Repo_Test"
+REPOSITORY_PATH = ""
 TEMP_FOLDER = "Temp/"
-#REPOSITORY_PATH = "/Users/thais/Documents/GitHub\StudentCode-in.github.io"
-#REPOSITORY_PATH = "/Users/thais/Documents/GitHub\SecureCloud"
-#REPOSITORY_PATH = "/Users/thais/Documents/GitHub/devFind"
-#REPOSITORY_PATH = "/Users/thais/Documents/GitHub/Site_de_Pesquisa"
 
 Branch_Name = "main"
 repo_path = git.Repo(REPOSITORY_PATH)
