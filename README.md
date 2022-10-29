@@ -9,7 +9,7 @@ Trabalho de conclusao de curso de 2022.2 Sobre mineração repositorios
 5. On the ariable Branch_Name Change to the name of the branch ypu want to check
 6. Go to the file Main.py and run the project.
 
-PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variable.py.
+PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
 
 # How to Generate the CSV file
 1. Run the aplication
