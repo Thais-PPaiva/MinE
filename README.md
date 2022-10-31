@@ -14,10 +14,11 @@ PS: If you want to change the amount of the commits showed, change value of the 
 # How to Generate the CSV file
 1. Run the aplication
 2. Choose two commits from the list of commits
-3. Enter the hash of the older commit wait the process to be finished
-4. Enter the name of the file you want to see the diferences
-5. Enter the path where the desired file is located. (If the especified file is on the main folder, just presss enter).
-6. Once the desired HTML file is found the CSV file will be genrated.
-7. The generetaed file it will be located on the folder called "Report"
+3. Enter the hash of the older commit and wait the process to be finished
+4. Enter the hash of the newest commmit and wait the process to be finished
+5. Enter the name of the file you want to see the diferences
+6. Enter the path where the desired file is located. (If the especified file is on the main folder, just presss enter).
+7. Once the desired HTML file is found the CSV file will be genrated.
+8. The generetaed file it will be located on the folder called "Report"
 
 PS: The file will be named with the name of the file that was verified.
