@@ -1,7 +1,7 @@
 # TCC-2022.2
 Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 
-# How to Run the aplication
+# How to Run the Aplication
 1. Use git clone to clone the project 
 2. Open the project with the Pycharm IDE or VC code 
 3. Open the File Variables.py 
