@@ -21,4 +21,4 @@ PS: If you want to change the amount of the commits showed, change value of the 
 7. Once the desired HTML file is found the CSV file will be genrated.
 8. The generetaed file it will be located on the folder called "Report"
 
-PS: The file will be named with the name of the file that was verified.
+PS: The CSV file will be named with the name of the file that was verified.
