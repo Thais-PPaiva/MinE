@@ -10,6 +10,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 6. Go to the file Main.py and run the project.
 
 PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
+PS: You need to have the project that you want to check cloned on you computer.
 
 # How to Generate the CSV file
 1. Run the aplication
