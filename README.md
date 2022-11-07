@@ -11,7 +11,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 3. Open the File Variables.py
 4. On the variable REPOSITORY_PATH change the path to path of the repository you want to check.
 5. On the variable Branch_Name Change to the name of the branch you want to check.
-6. Open the terminal on the IDE you choose.*
+6. Open the terminal on the IDE you choose.**
 7. Run the command "pip install gitpython"
 8. Go to the file Main.py and run the project.
 
