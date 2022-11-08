@@ -4,6 +4,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 ## Pre-condition
 1. Have the python language installed on your computer
 2. Have at least one of the IDE that is nescessarie to run the application (Pycharm or VS Code)
+3. Have to has the python on version 3.10 or higther.
 
 # How to Run the Aplication
 1. Use git clone to clone the project.
