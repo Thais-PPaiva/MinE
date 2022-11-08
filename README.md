@@ -13,7 +13,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 5. On the variable Branch_Name Change to the name of the branch you want to check.
 6. Open the terminal on the IDE you choose.**
 7. Run the command "pip install gitpython"
-8. **Go to the file Main.py and run the project.**
+8. **Go to the file Main.py to run the project.**
 
 PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
 PS: You need to have the project that you want to check cloned on you computer.
