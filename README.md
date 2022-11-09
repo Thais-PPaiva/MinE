@@ -37,6 +37,7 @@ PS: **Do not use "\\" on the repository path always use "/"**
 
 PS: The CSV file will be named with the name of the file that was verified.
 
+## Extras configurations that could be nesssecessarie
 ### Change the Python interpreter in the project settings
 1. Press Ctrl+Alt+S to open the IDE settings and select Project <project name> | Python Interpreter.
 2. Expand the list of the available interpreters and click the Show All link.
