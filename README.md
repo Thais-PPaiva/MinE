@@ -56,6 +56,6 @@ import sys
 for pth in sys.path:
   print(pth)
 </pre>
-![image](https://user-images.githubusercontent.com/83622511/200713890-419a6a98-eebc-4c9b-aaed-fa2f4c97084e.png)
+![image](https://user-images.githubusercontent.com/83622511/200713890-419a6a98-eebc-4c9b-aaed-fa2f4c97084e.png) <br>
 Exemple of a python Path <br>
 Source: https://python.plainenglish.io/how-to-set-default-python-interpreter-in-vs-code-76c38c210dc3
