@@ -2,12 +2,10 @@
 Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 
 ## Pre-condition
-<ol>
-<li>Have the python language installed on your computer.</li>
-<li>Have at least one of the IDE that is nescessarie to run the application (Pycharm or VS Code)</li>
-<li> __Have to has the python on version 3.10 or higther.__ </li>
-<li> **The interpreter used must be a python version equal 3.10 or highter.** </li>
-  </ol>
+1. Have the python language installed on your computer.
+2. Have at least one of the IDE that is nescessarie to run the application (Pycharm or VS Code)
+3. **Have to has the python on version 3.10 or higther.**
+4. **The interpreter used must be a python version equal 3.10 or highter.**
 
 # How to Run the Aplication
 1. Use git clone to clone the project.
@@ -38,7 +36,7 @@ PS: **Do not use "\\" on the repository path always use "/"**<br>
 PS: The CSV file will be named with the name of the file that was verified.
 
 ## Extras Configurations That Could Be Nesssecessarie
-### Change the Python interpreter in the project settings
-1. Press Ctrl+Alt+S to open the IDE settings and select Project <<project name>> | Python Interpreter.
+### Change the Python interpreter in the project settings (For Pychar IDE)
+1. Press Ctrl+Alt+S to open the IDE settings and select Project '<'project name'>' | Python Interpreter.
 2. Expand the list of the available interpreters and click the Show All link.
 3. Select the target interpreter.
