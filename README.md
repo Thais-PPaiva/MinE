@@ -41,3 +41,8 @@ PS: The CSV file will be named with the name of the file that was verified.
 2. Expand the list of the available interpreters and click the Show All link.
 3. Select the target interpreter.<br>
 Source: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html#add_new_project_interpreter<br>
+
+### Interperter configuration (For VS Code)
+1. Go to File > Preferences > Settings or Press “Ctrl + ,”.
+2. Choose User > Extensions>Python > Python Path and paste the path of where the python is installed.
+3. Add “\python.exe” at the end of the path.
