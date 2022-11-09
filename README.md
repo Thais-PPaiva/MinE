@@ -30,7 +30,7 @@ PS: **Do not use "\\" on the repository path always use "/"**
 2. Choose two commits from the list of commits.
 3. Enter the hash of the older commit and wait the process to be finished.
 4. Enter the hash of the newest commmit and wait the process to be finished.
-5. Enter the name of the file you want to see the diferences (The file name musb be provide with the file extension).
+5. Enter the name of the file you want to see the diferences (The file name must be provide with the file extension).
 6. Enter the path where the desired file is located. (If the especified file is on the main folder, just presss enter).
 7. Once the desired HTML file is found the CSV file will be genrated.
 8. The generetaed file it will be located on the folder called "Report".
