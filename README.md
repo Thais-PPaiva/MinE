@@ -7,6 +7,10 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 3. **Have to have the python on version 3.10 or higher.**
 4. **The interpreter used must be a python version equal 3.10 or higher.**
 
+##### How to Verifie Your Python Version
+1. Open an terminal on your computer
+2. Type "python ‐‐version"
+
 # How to Run the Aplication
 1. Use git clone to clone the project.
 2. Open the project with the Pycharm IDE or VC code.
