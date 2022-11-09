@@ -46,3 +46,11 @@ Source: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.ht
 1. Go to File > Preferences > Settings or Press “Ctrl + ,”.
 2. Choose User > Extensions>Python > Python Path and paste the path of where the python is installed.
 3. Add “\python.exe” at the end of the path.
+4. At the bottom left you will be able to see the python interpreter name.<br>
+Source: https://python.plainenglish.io/how-to-set-default-python-interpreter-in-vs-code-76c38c210dc3
+##### Find out the python path (For windons)
+1. Type python to open the Python shell.
+2. Type the following command, and be aware of indentation:
+      import sys
+      for pth in sys.path:
+         print(pth)
