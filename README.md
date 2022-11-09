@@ -17,11 +17,9 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 7. Run the command "pip install gitpython"
 8. **Go to the file Main.py to run the project.**
 
-PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
-
-PS: You need to have the project that you want to check cloned on you computer.
-
-PS: **Do not use "\\" on the repository path always use "/"**
+PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.<br>
+PS: You need to have the project that you want to check cloned on you computer.<br>
+PS: **Do not use "\\" on the repository path always use "/"**<br>
 
 ** If you choose to run the aplication the VS Code it will be need to install the python extension for VS Code on your computer.
 
