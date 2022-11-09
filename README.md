@@ -18,6 +18,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 8. **Go to the file Main.py to run the project.**
 
 PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
+
 PS: You need to have the project that you want to check cloned on you computer.
 
 PS: **Do not use "\\" on the repository path always use "/"**
@@ -29,7 +30,7 @@ PS: **Do not use "\\" on the repository path always use "/"**
 2. Choose two commits from the list of commits.
 3. Enter the hash of the older commit and wait the process to be finished.
 4. Enter the hash of the newest commmit and wait the process to be finished.
-5. Enter the name of the file you want to see the diferences.
+5. Enter the name of the file you want to see the diferences (The file name musb be provide with the file extension).
 6. Enter the path where the desired file is located. (If the especified file is on the main folder, just presss enter).
 7. Once the desired HTML file is found the CSV file will be genrated.
 8. The generetaed file it will be located on the folder called "Report".
