@@ -19,6 +19,7 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 
 PS: If you want to change the amount of the commits showed, change value of the variable COMMITS_TO_PRINT on the file Variables.py.
 PS: You need to have the project that you want to check cloned on you computer.
+
 PS: **Do not use "\\" on the repository path always use "/"**
 
 ** If you choose to run the aplication the VS Code it will be need to install the python extension for VS Code on your computer.
