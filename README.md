@@ -51,6 +51,9 @@ Source: https://python.plainenglish.io/how-to-set-default-python-interpreter-in-
 ##### Find out the python path (For windons)
 1. Type python to open the Python shell.
 2. Type the following command, and be aware of indentation:<br>
+<pre>
 import sys<br>
 for pth in sys.path:<br>
-  \print(pth)<br>
+  print(pth)<br>
+</pre>
+
