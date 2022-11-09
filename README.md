@@ -5,8 +5,8 @@ Trabalho de conclusão de curso de 2022.2 Sobre mineração repositorios
 <ol>
 <li>Have the python language installed on your computer.</li>
 <li>Have at least one of the IDE that is nescessarie to run the application (Pycharm or VS Code)</li>
-<li>**Have to has the python on version 3.10 or higther.**</li>
-<li>**The interpreter used must be a python version equal 3.10 or highter.**</li>
+<li> **Have to has the python on version 3.10 or higther.** </li>
+<li> **The interpreter used must be a python version equal 3.10 or highter.** </li>
   </ol>
 
 # How to Run the Aplication
