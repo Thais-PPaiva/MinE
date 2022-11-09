@@ -50,7 +50,7 @@ Source: https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.ht
 Source: https://python.plainenglish.io/how-to-set-default-python-interpreter-in-vs-code-76c38c210dc3
 ##### Find out the python path (For windons)
 1. Type python to open the Python shell.
-2. Type the following command, and be aware of indentation:
-      import sys
-      for pth in sys.path:
-         print(pth)
+2. Type the following command, and be aware of indentation:<br>
+      import sys<br>
+      for pth in sys.path:<br>
+         print(pth)<br>
